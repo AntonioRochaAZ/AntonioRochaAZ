@@ -13,13 +13,5 @@ Since then, I've worked on the subject on three different projects:
    for applying models trained for one type of battery to different batteries.
 3. My undergraduate thesis on Gas Emission prediction, developing and comparing
    prediction accuracies for different types of networks (NNs, CNNs, RNNs).
-   
 
-[comment]: <> (- Program different types of Neural Networks with PyTorch &#40;NNs, CNNs, RNNs&#41;.)
-
-[comment]: <> (- Studies using concepts of Transfer Learning &#40;such as pre-trained models&#41;.)
-
-[comment]: <> (- Documentation using [Sphinx]&#40;https://www.sphinx-doc.org/en/master/&#41;.)
-
-[comment]: <> (- Use of Google Colab and GPU acceleration.)
-
+You can find more about me in my [Linkedin page](https://www.linkedin.com/in/antonio-rocha-azevedo-9577b41a1/?locale=en_US>).
