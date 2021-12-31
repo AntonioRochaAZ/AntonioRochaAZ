@@ -14,7 +14,7 @@ Since then, I've worked on the subject on a few different projects:
 3. My undergraduate thesis on Predictive Emissions Monitoring System (PEMS), developing and comparing
    prediction accuracies for different types of neural networks (NNs, CNNs, RNNs) and hybrid models
    that integrate them.
-4. Currently working on Neural Networks for recognition of LaTeX symbols ([ImageNet](https://github.com/AntonioRochaAZ/ImageNet)).
+4. Currently working on Neural Networks for recognition of LaTeX symbols ([CNN Project](https://github.com/AntonioRochaAZ/CNN-Project)).
    The objective is to develop skills in advanced python, get used to using GitHub, explore CNN architecures,
    and serve as portfolio (since other projects are private).
 
